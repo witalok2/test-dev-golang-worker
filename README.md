@@ -26,3 +26,12 @@
 ├── go.mod
 ├── go.sum
 ```
+
+run worker
+```
+make up
+```
+run test
+```
+make test
+```
